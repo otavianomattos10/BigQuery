@@ -1,10 +1,10 @@
 {
   "type": "service_account",
   "project_id": "Projeto-Teste",
-  "private_key_id": "245ca3a75gd63sb45e3d579983b5765ccb5f1921",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFwehfgrtewsSiAgEAAoIBAQDHP1Bn+14ZsS+P\niLEfLllucD5hLth5lqB+kQ0Em96Ei+yDlWAH7ABxIySgq/Q1X/AF+F3JGaXakMJr\nwb5u+by/kvINE8uL7rBDRZBjAHzvqKG68bvEpvFIzfk7pmGSy7aU+lpyiUOt+J8p\n3fRLhpxN/sUUDs4gL6W3wktqbHKZ8fedW8wjsHomvZ51K1CTzwtJ0RYsmsu7Kz3R\nwZGcXRAMcqUP5rq4ew/SekDaF91H09V99SllqtCnK5OdKu2i1aChbcPSzccxoxGG\nc5vm/b8E7tDNnV/ySxlumRrvYyAcsa7XyhL7RQSyFxlvc3QQRrEHbFNgT2zIPGx2\n5IWIPX9nAgMBAAECggEAQhExdTk5i6VgEuUNbjxtNRyM4qao6zBSCYXJXkTc9PB8\nvWjzjczonJs9kvVRpb0pFqGzX3Jct2uWvCpjHeM7ff6YulNdBApicfwIE3ve8Yzm\nC9oKG/wLN8vsn6Xc5tMbuKyG/0Gaqn4tMLHDRqPdAlO/P5ZlLPD/rz4Cycgp+/dU\njzRXzKliDDV5/Afrle08WiNDvkkeG4CYPZ22ShumzS6GNKl48MZWx4isuzk2Xr+0\nxtk97KBEifW6mQJdhicwg2KTZIt1Wr2Wsfe6yWlGhT0lN+fz35Arej+v8OgubV9d\nohkzw8CmRGmeZGXaxVb9cfuI40jI16TLo1HvCZYzoQKBgQD1H8CenHdoSGlEjZjT\nLZlL7YqU8vYh5w62zmvCqe79LiOj4iap+sPhrxMUZ9dAk4SZ5AmBo9J5aJplpanQ\nwPb9HIAWQd6eBzAwQZeAkK2sJaVB4ejDkudK0UVIE9Y4VrduYY1KA8BovxaNzcjP\nQm6cWRWiceTb27iJgz79b5OK0QKBgQDQFnhIw7ON2auJI1XZTM09gCm9CiJtJvRr\nCzqGrSNpGll5Csowf4YDmcpupD/EyyOXjXTmUxJYd4Wv5V/u05tjalDA+pUo4XhF\nLw+gGcXFxnJHG1Toz0GPm6cV2IV60lZu9CL2yAnAR34XbeyTo0K+PJlbpK/DQasQ\nmXX7UHoEtwKBgB93dQWndlinuwO23aB2YRBzLPAUBG6zt5rWAtVZdTmBG8gk9uup\nKk4laGCdN++tQD91G5dNzW4SdIeJ7bPDobE6YGL7D7XfnFsFgIpbiD/qET3U30mD\n6TcciDVJfp163E9KLJYMxz1rEl0fxqB8mbBuay2QS13B5f2ZIJPuJ9WRAoGAaY6M\nc/T6d4Gs14NaQEIKdyE1ixTCA/bX1Bk9FiZsKRvZuWI00MdP1zHDk760LoMRygZS\n/6eyTbhL07+am48yawr6bfpvge5mUUofNgr83Wfefp2pw/OnAU9nQdi1VWmvuNcV\niXROJgDeQMpdUUNnTxN0hB2Vn4oHWgNO6y6Wxx8CgYB6gEOe1xlBUiiBn999XIGH\ng9Njl0tU/A5Xwbd73qP/QxildSvQ+DsD0a/6MA6QrVG0W+bv313xiZt+eO1wV1q6\nNJuXlbMHshAr0gYFxOTLrERJq49kOj4vwP7eN3KncmKIwIGWKiMdpRKYv1ZVCoPx\nelxxwQjB8kXG06d2QK+N6g==\n-----END PRIVATE KEY-----\n",
+  "private_key_id": "Chave_Privada_ID",
+  "private_key": "Chave_Privada",
   "client_email": "teste-bigquery@bigquery-28082021.iam.gserviceaccount.com",
-  "client_id": "116761234564127518149",
+  "client_id": "client_id",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
